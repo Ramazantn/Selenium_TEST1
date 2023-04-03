@@ -146,7 +146,7 @@ class test_demo():
 #  Excell vb dış kaynaktan data temin etmemiz gerektiğimiz zaman ve constants gibi bir yapı kullamak gerektiğinde Pytest tercih edilmesi daha uygun olur.
 #  
 # Selenium clean code ve kendini tekrar etmeme açısından olumsuz özelliğe sahip gibi göründüğünden dolayı;
-#  yazılan bir kodun 3 kişi tarafından okunması durumunda Pytest daha anlaşılır olabilmektedir.
+#  yazılan bir kodun 3. kişi tarafından okunması durumunda Pytest daha anlaşılır olabilmektedir.
 #
 #Nihayetinde her iki koddan hangisinin tercih edileceği durumu; Projenin amacı, içeriğine göre şekillenmektedir.
 #Örneğin bir sınıf listesi üzerinde test yapıyorsak dışarıdan veri almamız gerekriği için Pytest daha mantıklıdır.
